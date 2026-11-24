@@ -1,0 +1,6 @@
+{
+  "name": "FireGuard Monitor",
+  "description": "Single-page responsive dashboard for an Arduino-based fire and gas safety system using Web Serial API and Chart.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
